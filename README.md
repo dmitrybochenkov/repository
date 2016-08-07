@@ -1,1 +1,1 @@
-"Privet iz mastera" 
+"Privet iz mastera i iz drugoy vetki" 
